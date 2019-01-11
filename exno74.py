@@ -1,6 +1,6 @@
-m=float(input("enter the no"))
-c=a+1
-b=str(m)
-k=int(b[2])/10
-v=c-k
+x=float(input("enter the no"))
+y=a+1
+z=str(x)
+k=int(z[2])/10
+v=y-k
 print(int(v))
