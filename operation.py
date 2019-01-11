@@ -1,4 +1,4 @@
-n=input("Enter your seqence (Mod/Dividee):")
+n=100/110
 op=['%','/']
 for i in n :
 	if i in op:
